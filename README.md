@@ -28,6 +28,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO-DE-GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+</p>
