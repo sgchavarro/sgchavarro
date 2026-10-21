@@ -1,4 +1,4 @@
-# 💼 Hola me llamo Samuel Gerardo Chavarro
+# 🏛️ Samuel Gerardo Chavarro G.
 
 Este portafolio web muestra mi perfil como desarrollador junior UI/UX y recoge mis proyectos, habilidades, experiencia y datos de contacto.
 
