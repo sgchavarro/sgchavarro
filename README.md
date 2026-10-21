@@ -1,111 +1,33 @@
-# 🏛️ Samuel Gerardo Chavarro G.
-
-### Arquitecto de software y desarrollador junior 
-
----
-
-# 📖 Descripción del Proyecto
-
-Este sitio fue creado como una presentación personal que incluye:
-
-* Sección de bienvenida con animación y diseño moderno.
-* Datos personales e intereses.
-* Habilidades técnicas y profesionales.
-* Curriculum con formación y experiencia.
-* Galería de proyectos de DOM desarrollados en ejercicios prácticos.
-* Formulario de contacto y mapa de ubicación.
-
-El objetivo es demostrar capacidad en HTML, CSS y JavaScript, además de entregar una experiencia visual clara y responsiva.
+<div align="center">
+  <h1>¡Hola, qué tal! 👋 Soy Samuel Gerardo Chavarro G.</h1>
+  <h3>🚀 Desarrollador Junior en camino | Entusiasta de la Tecnología</h3>
+  
+  <p>
+    <a href="https://linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:tu-correo@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
+</div>
 
 ---
 
-# ✨ Características principales
-
-* Menú de navegación fijo y responsive.
-* Diseño oscuro con componentes animados.
-* Sección "Sobre mí" con información personal y objetivos.
-* Barras de progreso para mostrar habilidades.
-* Sección de curriculum con educación y experiencia.
-* Galería de proyectos DOM con enlaces a ejemplos reales.
-* Formulario de contacto y embed de Google Maps.
-* Pie de página con enlaces rápidos y redes sociales.
+### 🚀 Sobre mí
+- 🌱 Actualmente estoy aprendiendo las bases del desarrollo y mejorando mis habilidades cada día en el sena.
+- 💻 Me apasiona resolver problemas y construir proyectos desde cero.
+- 🎯 Mi objetivo actual es consolidar mis conocimientos técnicos y aportar valor en equipos de desarrollo.
+- 📫 ¿Quieres conectar o darme algún consejo? ¡Escríbeme!
 
 ---
 
-# 🛠️ Tecnologías utilizadas
+### 🛠️ Tecnologías y Herramientas que uso
 
-* HTML5
-* CSS3
-* JavaScript puro
-* Font Awesome para iconos
-
----
-
-# 📁 Estructura del proyecto
-
-```text
-Portafolio/
-│
-├── index.html
-├── CSS/
-│   └── styles.css
-├── JS/
-│   └── script.js
-├── img/
-│   ├── hero.png
-│   ├── Baterias.png
-│   └── ...
-├── evidencia 004 - 012/
-│   ├── DomBateria/
-│   ├── DomCalculadora/
-│   ├── DomCarro/
-│   ├── DomCarrucelDeImagenes/
-│   ├── DomCronometro/
-│   ├── DomCursoraAnimado/
-│   ├── DomGaleria3D/
-│   ├── DomListaDeTareas/
-│   └── DomMensaje/
-└── README.md
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tech Stack Icons" />
+</div>
 
 ---
 
-# 🚀 Cómo ejecutar el proyecto
+### 📊 Estadísticas de GitHub
 
-1. Abre la carpeta del proyecto en tu editor o explorador de archivos.
-2. Abre el archivo `index.html` en tu navegador.
-3. Alternativa: usa la extensión **Live Server** de Visual Studio Code para servirlo localmente.
-
----
-
-# 📌 Proyectos incluidos
-
-La sección de portfolio enlaza a varios ejercicios prácticos de DOM:
-
-* `DomBateria` — Proyecto de batería interactiva.
-* `DomCalculadora` — Calculadora funcional.
-* `DomCarro` — Presentación de carro con diseño UI.
-* `DomCarrucelDeImagenes` — Carrusel de imágenes.
-* `DomCronometro` — Cronómetro con interfaz animada.
-* `DomCursoraAnimado` — Cursor personalizado y animaciones.
-* `DomGaleria3D` — Galería con efecto 3D.
-* `DomListaDeTareas` — Lista de tareas interactiva.
-* `DomMensaje` — Ejercicio de mensajes UI.
-
----
-
-# 📨 Contacto
-
-* Nombre: Samuel G. Chavarro
-* Email: `samuelgerardochavarro@gmail.com`
-* Teléfono: `+57 322 708 0233`
-* Ubicación: Gigante, Huila, Colombia
-* GitHub: https://github.com/sgchavarro
-
----
-
-# 📄 Licencia
-
-Este proyecto puede utilizarse con fines personales y educativos.
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO-DE-GITHUB&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
