@@ -1,6 +1,6 @@
 # 🏛️ Samuel Gerardo Chavarro G.
 
-Arquitecto de software y desarrollador junior 
+## Arquitecto de software y desarrollador junior 
 
 ---
 
