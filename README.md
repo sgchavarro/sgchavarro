@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/sgchavarro/wallsgchavarro_zipigs.png" alt="Samuel Gerardo Chavarro G." width="100%">
+</p>
+
+
 <div align="center">
   <h1>¡Hola, qué tal! 👋 Soy Samuel Gerardo Chavarro G.</h1>
   <h3>🚀 Desarrollador Junior en camino | Entusiasta de la Tecnología</h3>
