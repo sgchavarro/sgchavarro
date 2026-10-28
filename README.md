@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/sgchavarro/" alt="Samuel Gerardo Chavarro G." width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f242c&height=200&section=header&text=Samuel%20Chavarro&fontSize=50&fontColor=58a6ff&subTitle=Junior%20Software%20Developer&subTitleColor=8b949e&animation=fadeIn&fontAlignY=38" />
 </p>
-
 
 <div align="center">
   <h1>¡Hola, qué tal! 👋 Soy Samuel Gerardo Chavarro G.</h1>
