@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/sgchavarro/wallsgchavarro_zipigs.png" alt="Samuel Gerardo Chavarro G." width="100%">
+  <img src="https://res.cloudinary.com/dxeulqo3n/image/upload/v1723578422/sgchavarro/" alt="Samuel Gerardo Chavarro G." width="100%">
 </p>
 
 
